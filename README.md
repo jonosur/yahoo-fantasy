@@ -1,5 +1,12 @@
-# yahoo-fantasy
+[![Language](https://img.shields.io/badge/language-Python-green.svg?style=for-the-badge)](http://www.python.org)
+[![MIT](https://shields.io/badge/license-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+[![Issues](https://img.shields.io/github/issues/jonosur/yahoo-fantasy?style=for-the-badge)](https://github.com/jonosur/yahoo-fantasy/issues)
+
+### YAHOO-FANTASY
+
 Python script to fetch and print NHL Yahoo Fantasy matches. 
+
+Make sure you have bs4 installed and you change the url in yahoo.py.
 
 ```
 python3 yahoo.py
